@@ -1,0 +1,6 @@
+[submodule "packages/stupid-idea-2"]
+	path = packages/stupid-idea-2
+	url = https://github.com/vdeturckheim/stupid-idea-2.git
+[submodule "packages/stupid-idea-3"]
+	path = packages/stupid-idea-3
+	url = https://github.com/vdeturckheim/stupid-idea-3.git

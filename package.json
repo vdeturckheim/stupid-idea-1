@@ -1,0 +1,23 @@
+{
+  "name": "stupid-idea-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdeturckheim/stupid-idea-1.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vdeturckheim/stupid-idea-1/issues"
+  },
+  "homepage": "https://github.com/vdeturckheim/stupid-idea-1#readme",
+  "workspaces": [
+    "packages/stupid-idea-3",
+    "packages/stupid-idea-2"
+  ]
+}
